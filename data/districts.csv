@@ -6594,36 +6594,6 @@
 917103,9171,Abepura
 917104,9171,Muara Tami
 917105,9171,Heram
-920101,9201,Makbon
-920104,9201,Beraur
-920105,9201,Salawati
-920106,9201,Seget
-920107,9201,Aimas
-920108,9201,Klamono
-920110,9201,Sayosa
-920112,9201,Segun
-920113,9201,Mayamuk
-920114,9201,Salawati Selatan
-920117,9201,Klabot
-920118,9201,Klawak
-920120,9201,Maudus
-920139,9201,Mariat
-920140,9201,Klayili
-920141,9201,Klaso
-920142,9201,Moisegen
-920143,9201,Sorong
-920144,9201,Bagun
-920145,9201,Wemak
-920146,9201,Sunook
-920147,9201,Buk
-920148,9201,Saengkeduk
-920149,9201,Malabotom
-920150,9201,Konhir
-920151,9201,Klasafet
-920152,9201,Hobard
-920153,9201,Salawati Tengah
-920154,9201,Botain
-920155,9201,Sayosa Timur
 920203,9202,Warmare
 920204,9202,Prafi
 920205,9202,Masni
@@ -6650,45 +6620,6 @@
 920315,9203,Kayauni
 920316,9203,Furwagi
 920317,9203,Tomage
-920401,9204,Teminabuan
-920404,9204,Inanwatan
-920406,9204,Sawiat
-920409,9204,Kokoda
-920410,9204,Moswaren
-920411,9204,Seremuk
-920412,9204,Wayer
-920414,9204,Kais
-920415,9204,Konda
-920420,9204,Matemani
-920421,9204,Kokoda Utara
-920422,9204,Saifi
-920424,9204,Fokour
-920425,9204,Salkma
-920426,9204,Kais Darat
-920501,9205,Misool (Misool Utara)
-920502,9205,Waigeo Utara
-920503,9205,Waigeo Selatan
-920504,9205,Salawati Utara
-920505,9205,Kepulauan Ayau
-920506,9205,Misool Timur
-920507,9205,Waigeo Barat
-920508,9205,Waigeo Timur
-920509,9205,Teluk Mayalibit
-920510,9205,Kofiau
-920511,9205,Meos Mansar
-920513,9205,Misool Selatan
-920514,9205,Warwarbomi
-920515,9205,Waigeo Barat Kepulauan
-920516,9205,Misool Barat
-920517,9205,Kepulauan Sembilan
-920518,9205,Kota Waisai
-920519,9205,Tiplol Mayalibit
-920520,9205,Batanta Utara
-920521,9205,Salawati Barat
-920522,9205,Salawati Tengah
-920523,9205,Supnin
-920524,9205,Ayau
-920525,9205,Batanta Selatan
 920601,9206,Bintuni
 920602,9206,Merdey
 920603,9206,Babo
@@ -6733,59 +6664,6 @@
 920805,9208,Kambrau
 920806,9208,Teluk Arguni Bawah
 920807,9208,Yamor
-920901,9209,Fef
-920902,9209,Miyah
-920903,9209,Yembun
-920904,9209,Kwoor
-920905,9209,Sausapor
-920906,9209,Abun
-920907,9209,Syujak
-920908,9209,Moraid 
-920909,9209,Kebar 
-920910,9209,Amberbaken 
-920911,9209,Senopi 
-920912,9209,Mubrani 
-920913,9209,Bikar
-920914,9209,Bamusbama
-920915,9209,Ases 
-920916,9209,Miyah Selatan
-920917,9209,Ireres
-920918,9209,Tobouw
-920919,9209,Wilhem Roumbouts
-920920,9209,Tinggouw
-920921,9209,Kwesefo
-920922,9209,Mawabuan
-920923,9209,Kebar Timur
-920924,9209,Kebar Selatan
-920925,9209,Manekar
-920926,9209,Mpur
-920927,9209,Amberbaken Barat
-920928,9209,Kasi
-920929,9209,Selemkai
-921001,9210,Aifat
-921002,9210,Aifat Utara
-921003,9210,Aifat Timur
-921004,9210,Aifat Selatan
-921005,9210,Aitinyo Barat
-921006,9210,Aitinyo
-921007,9210,Aitinyo Utara
-921008,9210,Ayamaru
-921009,9210,Ayamaru Utara
-921010,9210,Ayamaru Timur
-921011,9210,Mare
-921012,9210,Aifat Timur Tengah 
-921013,9210,Aifat Timur Jauh 
-921014,9210,Aifat Timur Selatan 
-921015,9210,Ayamaru Selatan 
-921016,9210,Ayamaru Jaya 
-921017,9210,Ayamaru Selatan Jaya 
-921018,9210,Ayamaru Timur Selatan 
-921019,9210,Ayamaru Utara Timur 
-921020,9210,Ayamaru Tengah 
-921021,9210,Ayamaru Barat 
-921022,9210,Aitinyo Tengah 
-921023,9210,Aitinyo Raya 
-921024,9210,Mare Selatan 
 921101,9211,Ransiki
 921102,9211,Oransbari
 921103,9211,Neney
@@ -6802,16 +6680,6 @@
 921208,9212,Testega
 921209,9212,Minyambaouw
 921210,9212,Hingk
-927101,9271,Sorong
-927102,9271,Sorong Timur
-927103,9271,Sorong Barat
-927104,9271,Sorong Kepulauan
-927105,9271,Sorong Utara
-927106,9271,Sorong Manoi
-927107,9271,Sorong Kota
-927108,9271,Klaurung
-927109,9271,Malaimsimsa
-927110,9271,Maladum Mes
 930101,9301,Merauke 
 930102,9301,Muting 
 930103,9301,Okaba 
@@ -7275,4 +7143,136 @@
 950829,9508,Wutpaga 
 950830,9508,Nenggeagin 
 950831,9508,Krepkuri 
-950832,9508,Pasir Putih 
+950832,9508,Pasir Putih
+960101,9201,Makbon
+960104,9201,Beraur
+960105,9201,Salawati
+960106,9201,Seget
+960107,9201,Aimas
+960108,9201,Klamono
+960110,9201,Sayosa
+960112,9201,Segun
+960113,9201,Mayamuk
+960114,9201,Salawati Selatan
+960117,9201,Klabot
+960118,9201,Klawak
+960120,9201,Maudus
+960139,9201,Mariat
+960140,9201,Klayili
+960141,9201,Klaso
+960142,9201,Moisegen
+960143,9201,Sorong
+960144,9201,Bagun
+960145,9201,Wemak
+960146,9201,Sunook
+960147,9201,Buk
+960148,9201,Saengkeduk
+960149,9201,Malabotom
+960150,9201,Konhir
+960151,9201,Klasafet
+960152,9201,Hobard
+960153,9201,Salawati Tengah
+960154,9201,Botain
+960155,9201,Sayosa Timur
+960401,9204,Teminabuan
+960404,9204,Inanwatan
+960406,9204,Sawiat
+960409,9204,Kokoda
+960410,9204,Moswaren
+960411,9204,Seremuk
+960412,9204,Wayer
+960414,9204,Kais
+960415,9204,Konda
+960420,9204,Matemani
+960421,9204,Kokoda Utara
+960422,9204,Saifi
+960424,9204,Fokour
+960425,9204,Salkma
+960426,9204,Kais Darat
+960501,9205,Misool (Misool Utara)
+960502,9205,Waigeo Utara
+960503,9205,Waigeo Selatan
+960504,9205,Salawati Utara
+960505,9205,Kepulauan Ayau
+960506,9205,Misool Timur
+960507,9205,Waigeo Barat
+960508,9205,Waigeo Timur
+960509,9205,Teluk Mayalibit
+960510,9205,Kofiau
+960511,9205,Meos Mansar
+960513,9205,Misool Selatan
+960514,9205,Warwarbomi
+960515,9205,Waigeo Barat Kepulauan
+960516,9205,Misool Barat
+960517,9205,Kepulauan Sembilan
+960518,9205,Kota Waisai
+960519,9205,Tiplol Mayalibit
+960520,9205,Batanta Utara
+960521,9205,Salawati Barat
+960522,9205,Salawati Tengah
+960523,9205,Supnin
+960524,9205,Ayau
+960525,9205,Batanta Selatan
+960901,9209,Fef
+960902,9209,Miyah
+960903,9209,Yembun
+960904,9209,Kwoor
+960905,9209,Sausapor
+960906,9209,Abun
+960907,9209,Syujak
+960908,9209,Moraid 
+960909,9209,Kebar 
+960910,9209,Amberbaken 
+960911,9209,Senopi 
+960912,9209,Mubrani 
+960913,9209,Bikar
+960914,9209,Bamusbama
+960915,9209,Ases 
+960916,9209,Miyah Selatan
+960917,9209,Ireres
+960918,9209,Tobouw
+960919,9209,Wilhem Roumbouts
+960920,9209,Tinggouw
+960921,9209,Kwesefo
+960922,9209,Mawabuan
+960923,9209,Kebar Timur
+960924,9209,Kebar Selatan
+960925,9209,Manekar
+960926,9209,Mpur
+960927,9209,Amberbaken Barat
+960928,9209,Kasi
+960929,9209,Selemkai
+961001,9210,Aifat
+961002,9210,Aifat Utara
+961003,9210,Aifat Timur
+961004,9210,Aifat Selatan
+961005,9210,Aitinyo Barat
+961006,9210,Aitinyo
+961007,9210,Aitinyo Utara
+961008,9210,Ayamaru
+961009,9210,Ayamaru Utara
+961010,9210,Ayamaru Timur
+961011,9210,Mare
+961012,9210,Aifat Timur Tengah 
+961013,9210,Aifat Timur Jauh 
+961014,9210,Aifat Timur Selatan 
+961015,9210,Ayamaru Selatan 
+961016,9210,Ayamaru Jaya 
+961017,9210,Ayamaru Selatan Jaya 
+961018,9210,Ayamaru Timur Selatan 
+961019,9210,Ayamaru Utara Timur 
+961020,9210,Ayamaru Tengah 
+961021,9210,Ayamaru Barat 
+961022,9210,Aitinyo Tengah 
+961023,9210,Aitinyo Raya 
+961024,9210,Mare Selatan 
+967101,9271,Sorong
+967102,9271,Sorong Timur
+967103,9271,Sorong Barat
+967104,9271,Sorong Kepulauan
+967105,9271,Sorong Utara
+967106,9271,Sorong Manoi
+967107,9271,Sorong Kota
+967108,9271,Klaurung
+967109,9271,Malaimsimsa
+967110,9271,Maladum Mes
