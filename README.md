@@ -4,7 +4,7 @@ API Data Wilayah Indonesia
 Repository ini berisi source code untuk generate (REST) API statis berisi data wilayah Indonesia
 serta perintah untuk mendeploynya ke _static hosting_ [Github Page](https://pages.github.com/).
 
-Demo: [https://emsifa.github.io/api-wilayah-indonesia](https://emsifa.github.io/api-wilayah-indonesia)
+Demo: [https://raviybayu.github.io/api-wilayah-indonesia](https://raviybayu.github.io/api-wilayah-indonesia)
 
 #### Apa yang dimaksud API statis? 
 
@@ -33,7 +33,7 @@ API statis adalah API yang _endpoint_-nya terdiri dari file statis.
   * Branch: `gh-pages`
   * Direktori: `/root`
   * Klik Save
-* Tunggu beberapa menit (5-10 menitan), kembali ke halaman home repository (https://github.com/usernamekamu/api-wilayah-indonesia).
+* Tunggu beberapa menit (5-10 menitan), kembali ke halaman home repository (https://github.com/yourusername/api-wilayah-indonesia).
 * Kalau halaman sudah terdeploy, di bagian kanan halaman, akan muncul informasi "Environments". Kalau belum tunggu lagi beberapa menit, lalu refresh.
 * Kalau sudah muncul informasi Environmentsnya, klik bagian "🚀 github-pages".
 * Di halaman Deployments, klik "View Deployment" untuk melihat halaman yang berhasil terdeploy.
@@ -43,7 +43,7 @@ API statis adalah API yang _endpoint_-nya terdiri dari file statis.
 #### 1. Mengambil Daftar Provinsi
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/provinces.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/provinces.json
 ```
 
 Contoh Response:
@@ -52,11 +52,11 @@ Contoh Response:
 [
   {
     "id": "11",
-    "name": "ACEH"
+    "name": "Aceh"
   },
   {
     "id": "12",
-    "name": "SUMATERA UTARA"
+    "name": "Sumatera Utara"
   },
   ...
 ]
@@ -65,13 +65,13 @@ Contoh Response:
 #### 2. Mengambil Daftar Kab/Kota pada Provinsi Tertentu
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/regencies/{provinceId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/regencies/{provinceId}.json
 ```
 
 Contoh untuk mengambil daftar kab/kota di provinsi Aceh (ID = 11):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/regencies/11.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/regencies/11.json
 ```
 
 Contoh Response:
@@ -81,12 +81,12 @@ Contoh Response:
   {
     "id": "1101",
     "province_id": "11",
-    "name": "KABUPATEN SIMEULUE"
+    "name": "Kab. Simeulue"
   },
   {
     "id": "1102",
     "province_id": "11",
-    "name": "KABUPATEN ACEH SINGKIL"
+    "name": "Kab. Aceh Singkil"
   },
   ...
 ]
@@ -95,13 +95,13 @@ Contoh Response:
 #### 3. Mengambil Daftar Kecamatan pada Kab/Kota Tertentu
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/districts/{regencyId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/districts/{regencyId}.json
 ```
 
 Contoh untuk mengambil daftar kecamatan di Aceh Selatan (ID = 1103):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/districts/1103.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/districts/1103.json
 ```
 
 Contoh Response:
@@ -111,12 +111,12 @@ Contoh Response:
   {
     "id": "1103010",
     "regency_id": "1103",
-    "name": "TRUMON"
+    "name": "Trumon"
   },
   {
     "id": "1103011",
     "regency_id": "1103",
-    "name": "TRUMON TIMUR"
+    "name": "Trumon Timur"
   },
   ...
 ]
@@ -125,13 +125,13 @@ Contoh Response:
 #### 4. Mengambil Daftar Kelurahan pada Kecamatan Tertentu
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/villages/{districtId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/villages/{districtId}.json
 ```
 
 Contoh untuk mengambil daftar kelurahan di Trumon (ID = 1103010):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/villages/1103010.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/villages/1103010.json
 ```
 
 Contoh Response:
@@ -141,12 +141,12 @@ Contoh Response:
   {
     "id": "1103010001",
     "district_id": "1103010",
-    "name": "KUTA PADANG"
+    "name": "Kuta Padang"
   },
   {
     "id": "1103010002",
     "district_id": "1103010",
-    "name": "RAKET"
+    "name": "Raket"
   },
   ...
 ]
@@ -155,13 +155,13 @@ Contoh Response:
 #### 5. Mengambil Data Provinsi berdasarkan ID Provinsi
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/province/{provinceId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/province/{provinceId}.json
 ```
 
 Contoh untuk mengambil data provinsi Aceh (ID = 11):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/province/11.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/province/11.json
 ```
 
 Contoh Response:
@@ -169,20 +169,20 @@ Contoh Response:
 ```
 {
   "id": "11",
-  "name": "ACEH"
+  "name": "Aceh"
 }
 ```
 
 #### 6. Mengambil Data Kab/Kota berdasarkan ID Kab/Kota
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/regency/{regencyId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/regency/{regencyId}.json
 ```
 
 Contoh untuk mengambil data kabupaten Aceh Selatan (ID = 1103):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/regency/1103.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/regency/1103.json
 ```
 
 Contoh Response:
@@ -191,20 +191,20 @@ Contoh Response:
 {
   "id": "1103",
   "province_id": "11",
-  "name": "KABUPATEN ACEH SELATAN"
+  "name": "Kab. Aceh Selatan"
 }
 ```
 
 #### 7. Mengambil Data Kecamatan berdasarkan ID Kecamatan
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/district/{districtId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/district/{districtId}.json
 ```
 
 Contoh untuk mengambil data kecamatan Trumon Timur (ID = 1103011):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/district/1103011.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/district/1103011.json
 ```
 
 Contoh Response:
@@ -213,20 +213,20 @@ Contoh Response:
 {
   "id": "1103011",
   "regency_id": "1103",
-  "name": "TRUMON TIMUR"
+  "name": "Trumon Timur"
 }
 ```
 
 #### 8. Mengambil Data Kelurahan berdasarkan ID Kelurahan
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/village/{villageId}.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/village/{villageId}.json
 ```
 
 Contoh untuk mengambil data kelurahan Jambo Dalem (ID = 1103011010):
 
 ```
-GET https://emsifa.github.io/api-wilayah-indonesia/api/village/1103011010.json
+GET https://raviybayu.github.io/api-wilayah-indonesia/api/village/1103011010.json
 ```
 
 Contoh Response:
@@ -235,7 +235,7 @@ Contoh Response:
 {
   "id": "1103011010",
   "district_id": "1103011",
-  "name": "JAMBO DALEM"
+  "name": "Jambo Dalem"
 }
 ```
 
