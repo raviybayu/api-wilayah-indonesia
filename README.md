@@ -142,11 +142,13 @@ Contoh Response:
     "id": "1103010001",
     "district_id": "1103010",
     "name": "Kuta Padang"
+    "postal_code": "119929"
   },
   {
     "id": "1103010002",
     "district_id": "1103010",
     "name": "Raket"
+    "postal_code": "119930"
   },
   ...
 ]

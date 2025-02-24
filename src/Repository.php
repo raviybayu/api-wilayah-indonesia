@@ -62,7 +62,7 @@ class Repository
 
     public function getVillagesByDistrictId(string $districtId): array
     {
-        return $this->mapCsv('villages.csv', ['id', 'district_id', 'name'], function ($row) use ($districtId) {
+        return $this->mapCsv('villages.csv', ['id', 'district_id', 'name', 'postal_code'], function ($row) use ($districtId) {
             return $row[1] == $districtId;
         });
     }

@@ -1,7 +1,7 @@
 1101,11,Kab. Aceh Selatan
 1102,11,Kab. Aceh Tenggara
 1103,11,Kab. Aceh Timur
-1104,11,Kab. Aceh TENGAH
+1104,11,Kab. Aceh Tengah
 1105,11,Kab. Aceh Barat
 1106,11,Kab. Aceh Besar
 1107,11,Kab. Pidie
@@ -52,7 +52,7 @@
 1274,12,Kota Tanjung Balai
 1275,12,Kota Binjai
 1276,12,Kota Tebing Tinggi
-1277,12,Kota Padang Sidempuan
+1277,12,Kota Padangsidimpuan
 1278,12,Kota Gunungsitoli
 1301,13,Kab. Pesisir Selatan
 1302,13,Kab. Solok
@@ -152,12 +152,12 @@
 2105,21,Kab. Kepulauan Anambas
 2171,21,Kota Batam
 2172,21,Kota Tanjung Pinang
-3101,31,Kab. Adm. Kep. Seribu
-3171,31,Kota Adm. Jakarta Pusat
-3172,31,Kota Adm. Jakarta Utara
-3173,31,Kota Adm. Jakarta Barat
-3174,31,Kota Adm. Jakarta Selatan
-3175,31,Kota Adm. Jakarta Timur
+3101,31,Kab. Kepulauan Seribu
+3171,31,Kota Jakarta Pusat
+3172,31,Kota Jakarta Utara
+3173,31,Kota Jakarta Barat
+3174,31,Kota Jakarta Selatan
+3175,31,Kota Jakarta Timur
 3201,32,Kab. Bogor
 3202,32,Kab. Sukabumi
 3203,32,Kab. Cianjur
@@ -291,7 +291,7 @@
 5271,52,Kota Mataram
 5272,52,Kota Bima
 5301,53,Kab. Kupang
-5302,53,Kab Timor Tengah Selatan
+5302,53,Kab. Timor Tengah Selatan
 5303,53,Kab. Timor Tengah Utara
 5304,53,Kab. Belu
 5305,53,Kab. Alor
@@ -376,7 +376,7 @@
 7106,71,Kab. Minahasa Utara
 7107,71,Kab. Minahasa Tenggara
 7108,71,Kab. Bolaang Mongondow Utara
-7109,71,Kab. Kepulauan Siau Tagulandang Biaro
+7109,71,Kab. Kepulauan Siau Tagulandang Biaro 
 7110,71,Kab. Bolaang Mongondow Timur
 7111,71,Kab. Bolaang Mongondow Selatan
 7171,71,Kota Manado
@@ -405,7 +405,7 @@
 7307,73,Kab. Sinjai
 7308,73,Kab. Bone
 7309,73,Kab. Maros
-7310,73,Kab. Pangkajene dan Kepulauan
+7310,73,Kab. Pangkajene Kepulauan
 7311,73,Kab. Barru
 7312,73,Kab. Soppeng
 7313,73,Kab. Wajo
@@ -418,7 +418,7 @@
 7324,73,Kab. Luwu Timur
 7326,73,Kab. Toraja Utara
 7371,73,Kota Makassar
-7372,73,Kota Parepare
+7372,73,Kota Pare Pare
 7373,73,Kota Palopo
 7401,74,Kab. Kolaka
 7402,74,Kab. Konawe
@@ -440,10 +440,10 @@
 7501,75,Kab. Gorontalo
 7502,75,Kab. Boalemo
 7503,75,Kab. Bone Bolango
-7504,75,Kab. Pohuwato
+7504,75,Kab. Pahuwato
 7505,75,Kab. Gorontalo Utara
 7571,75,Kota Gorontalo
-7601,76,Kab. Pasangkayu
+7601,76,Kab. Pasangkayu 
 7602,76,Kab. Mamuju
 7603,76,Kab. Mamasa
 7604,76,Kab. Polewali Mandar
@@ -451,7 +451,7 @@
 7606,76,Kab. Mamuju Tengah
 8101,81,Kab. Maluku Tengah
 8102,81,Kab. Maluku Tenggara
-8103,81,Kab. Kepulauan Tanimbar
+8103,81,Kab. Kepulauan Tanimbar 
 8104,81,Kab. Buru
 8105,81,Kab. Seram Bagian Timur
 8106,81,Kab. Seram Bagian Barat
@@ -479,13 +479,19 @@
 9119,91,Kab. Supiori
 9120,91,Kab. Mamberamo Raya
 9171,91,Kota Jayapura
+9201,92,Kab. Sorong
 9202,92,Kab. Manokwari
 9203,92,Kab. Fak Fak
+9204,92,Kab. Sorong Selatan
+9205,92,Kab. Raja Ampat
 9206,92,Kab. Teluk Bintuni
 9207,92,Kab. Teluk Wondama
 9208,92,Kab. Kaimana
+9209,92,Kab. Tambrauw
+9210,92,Kab. Maybrat
 9211,92,Kab. Manokwari Selatan
 9212,92,Kab. Pegunungan Arfak
+9271,92,Kota Sorong
 9301,93,Kab. Merauke
 9302,93,Kab. Boven Digoel
 9303,93,Kab. Mappi
@@ -499,16 +505,10 @@
 9407,94,Kab. Intan Jaya
 9408,94,Kab. Deiyai
 9501,95,Kab. Jayawijaya
-9502,95,Kab Pegunungan Bintang
+9502,95,Kab. Pegunungan Bintang
 9503,95,Kab. Yahukimo
 9504,95,Kab. Tolikara
 9505,95,Kab. Mamberamo Tengah
 9506,95,Kab. Yalimo
 9507,95,Kab. Lanny Jaya
 9508,95,Kab. Nduga
-9601,96,Kab. Sorong
-9604,96,Kab. Sorong Selatan
-9605,96,Kab. Raja Ampat
-9609,96,Kab. Tambrauw
-9610,96,Kab. Maybrat
-9671,96,Kota Sorong
