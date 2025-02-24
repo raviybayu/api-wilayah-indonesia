@@ -238,6 +238,7 @@ Contoh Response:
   "id": "1103011010",
   "district_id": "1103011",
   "name": "Jambo Dalem"
+  "postal_code": "24441"
 }
 ```
 
